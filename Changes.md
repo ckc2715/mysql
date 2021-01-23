@@ -5,7 +5,7 @@ to add your changes here when sending pull requests. Also send corrections if
 you spot any mistakes.
 
 ## HEAD
-
+* Add `encoding` option to `PacketWriter` via `ConnectionConfig`
 * Support Node.js 14.x
 * Update `sqlstring` to 2.3.2
   - perf: remove outdated array pattern

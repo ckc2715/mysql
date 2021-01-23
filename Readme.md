@@ -1533,7 +1533,9 @@ $ MYSQL_HOST=localhost MYSQL_PORT=3306 MYSQL_DATABASE=node_mysql_test MYSQL_USER
 ## Todo
 
 * Prepared statements
-* Support for encodings other than UTF-8 / ASCII
+
+## Update
+* Added Support for encodings other than UTF-8 / ASCII by iconv-lite
 
 [appveyor-image]: https://badgen.net/appveyor/ci/dougwilson/node-mysql/master?label=windows
 [appveyor-url]: https://ci.appveyor.com/project/dougwilson/node-mysql
